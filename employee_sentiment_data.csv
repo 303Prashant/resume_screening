@@ -1,0 +1,201 @@
+Employee_ID,Feedback,Sentiment,Attrition_Risk,Engagement_Recommendation
+1,"The workload is excessive, leading to high stress and burnout, with unrealistic deadlines that disrupt work-life balance.",Negative,High,Implement workload management strategies
+2,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+3,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+4,"Career progression is slow, and promotions are based more on favoritism rather than performance and skills.",Negative,High,Introduce transparent promotion criteria
+5,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+6,Managers are very supportive and encourage innovation.,Positive,Low,Innovation awards
+7,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+8,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+9,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+10,Lack of career growth opportunities.,Negative,High,Career development programs
+11,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+12,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+13,The company values employee well-being.,Positive,Low,Mental health support
+14,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+15,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+16,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+17,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+18,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+19,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+20,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+21,"The workload is excessive, leading to high stress and burnout, with unrealistic deadlines that disrupt work-life balance.",Negative,High,Implement workload management strategies
+22,The company values employee well-being.,Positive,Low,Mental health support
+23,Lack of career growth opportunities.,Negative,High,Career development programs
+24,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+25,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+26,"The workload is excessive, leading to high stress and burnout, with unrealistic deadlines that disrupt work-life balance.",Negative,High,Implement workload management strategies
+27,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+28,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+29,"The workload is excessive, leading to high stress and burnout, with unrealistic deadlines that disrupt work-life balance.",Negative,High,Implement workload management strategies
+30,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+31,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+32,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+33,Company provides great growth opportunities.,Positive,Low,Employee recognition
+34,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+35,Company provides great growth opportunities.,Positive,Low,Employee recognition
+36,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+37,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+38,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+39,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+40,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+41,Company provides great growth opportunities.,Positive,Low,Employee recognition
+42,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+43,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+44,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+45,Company provides great growth opportunities.,Positive,Low,Employee recognition
+46,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+47,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+48,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+49,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+50,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+51,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+52,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+53,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+54,"The workload is excessive, leading to high stress and burnout, with unrealistic deadlines that disrupt work-life balance.",Negative,High,Implement workload management strategies
+55,Company provides great growth opportunities.,Positive,Low,Employee recognition
+56,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+57,The company values employee well-being.,Positive,Low,Mental health support
+58,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+59,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+60,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+61,The company values employee well-being.,Positive,Low,Mental health support
+62,The company values employee well-being.,Positive,Low,Mental health support
+63,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+64,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+65,"Career progression is slow, and promotions are based more on favoritism rather than performance and skills.",Negative,High,Introduce transparent promotion criteria
+66,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+67,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+68,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+69,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+70,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+71,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+72,Lack of career growth opportunities.,Negative,High,Career development programs
+73,"Career progression is slow, and promotions are based more on favoritism rather than performance and skills.",Negative,High,Introduce transparent promotion criteria
+74,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+75,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+76,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+77,The company values employee well-being.,Positive,Low,Mental health support
+78,Company provides great growth opportunities.,Positive,Low,Employee recognition
+79,The company values employee well-being.,Positive,Low,Mental health support
+80,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+81,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+82,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+83,Lack of career growth opportunities.,Negative,High,Career development programs
+84,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+85,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+86,Managers are very supportive and encourage innovation.,Positive,Low,Innovation awards
+87,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+88,Company provides great growth opportunities.,Positive,Low,Employee recognition
+89,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+90,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+91,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+92,Managers are very supportive and encourage innovation.,Positive,Low,Innovation awards
+93,"Career progression is slow, and promotions are based more on favoritism rather than performance and skills.",Negative,High,Introduce transparent promotion criteria
+94,The company values employee well-being.,Positive,Low,Mental health support
+95,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+96,Lack of career growth opportunities.,Negative,High,Career development programs
+97,"The workload is excessive, leading to high stress and burnout, with unrealistic deadlines that disrupt work-life balance.",Negative,High,Implement workload management strategies
+98,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+99,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+100,Company provides great growth opportunities.,Positive,Low,Employee recognition
+101,Lack of career growth opportunities.,Negative,High,Career development programs
+102,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+103,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+104,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+105,Lack of career growth opportunities.,Negative,High,Career development programs
+106,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+107,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+108,Company provides great growth opportunities.,Positive,Low,Employee recognition
+109,"The workload is excessive, leading to high stress and burnout, with unrealistic deadlines that disrupt work-life balance.",Negative,High,Implement workload management strategies
+110,"Career progression is slow, and promotions are based more on favoritism rather than performance and skills.",Negative,High,Introduce transparent promotion criteria
+111,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+112,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+113,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+114,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+115,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+116,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+117,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+118,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+119,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+120,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+121,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+122,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+123,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+124,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+125,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+126,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+127,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+128,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+129,Company provides great growth opportunities.,Positive,Low,Employee recognition
+130,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+131,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+132,Managers are very supportive and encourage innovation.,Positive,Low,Innovation awards
+133,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+134,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+135,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+136,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+137,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+138,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+139,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+140,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+141,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+142,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+143,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+144,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+145,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+146,The company values employee well-being.,Positive,Low,Mental health support
+147,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+148,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+149,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+150,"The workload is excessive, leading to high stress and burnout, with unrealistic deadlines that disrupt work-life balance.",Negative,High,Implement workload management strategies
+151,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+152,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+153,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+154,Lack of career growth opportunities.,Negative,High,Career development programs
+155,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+156,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+157,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+158,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+159,A fantastic place to work! The leadership genuinely listens to employees' concerns and takes proactive steps to improve the workplace culture.,Positive,Low,Regular feedback sessions
+160,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+161,"Career progression is slow, and promotions are based more on favoritism rather than performance and skills.",Negative,High,Introduce transparent promotion criteria
+162,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+163,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+164,"Career progression is slow, and promotions are based more on favoritism rather than performance and skills.",Negative,High,Introduce transparent promotion criteria
+165,Managers are very supportive and encourage innovation.,Positive,Low,Innovation awards
+166,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+167,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+168,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+169,Company provides great growth opportunities.,Positive,Low,Employee recognition
+170,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+171,The company values employee well-being.,Positive,Low,Mental health support
+172,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+173,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+174,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+175,The company values employee well-being.,Positive,Low,Mental health support
+176,"The salary and benefits package is competitive, with annual hikes and performance bonuses that truly reward hard work.",Positive,Low,Maintain competitive salary structure
+177,Lack of career growth opportunities.,Negative,High,Career development programs
+178,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+179,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+180,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+181,"The workload is excessive, leading to high stress and burnout, with unrealistic deadlines that disrupt work-life balance.",Negative,High,Implement workload management strategies
+182,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+183,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+184,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+185,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+186,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+187,"The company culture is toxic, with micromanagement and poor leadership decisions affecting productivity and employee morale.",Negative,High,Leadership and management training programs
+188,The company provides excellent career growth opportunities with regular promotions and skill development programs.,Positive,Low,Leadership training programs
+189,Salary is not competitive compared to industry.,Negative,Medium,Compensation review
+190,Poor management decisions are affecting productivity.,Negative,Medium,Management training
+191,Lack of career growth opportunities.,Negative,High,Career development programs
+192,"The management is highly supportive and encourages innovation, making it a great environment for learning and professional development.",Positive,Low,Recognition awards for innovation
+193,"Work pressure is too high, no work-life balance.",Negative,High,Flexible work hours
+194,Good learning opportunities and supportive team.,Positive,Low,Leadership training
+195,Managers are very supportive and encourage innovation.,Positive,Low,Innovation awards
+196,Lack of career growth opportunities.,Negative,High,Career development programs
+197,"Management lacks clear vision and communication, leading to frequent project misalignment and unnecessary work pressure.",Negative,Medium,Improve internal communication strategies
+198,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+199,"Salary hikes are minimal and not competitive with industry standards, making it difficult to stay motivated.",Negative,Medium,Conduct annual salary benchmarking
+200,"Career progression is slow, and promotions are based more on favoritism rather than performance and skills.",Negative,High,Introduce transparent promotion criteria
